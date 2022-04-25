@@ -11,7 +11,7 @@ python
 </details>
 <summary>查看安卓教程</summary>
 
-[点这下载Termux](https://wwu.lanzoul.com/iB8ZD03r51eb)
+ - [点这下载Termux](https://wwu.lanzoul.com/iB8ZD03r51eb)
 密码：dsfb
 
 
