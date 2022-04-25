@@ -9,9 +9,7 @@ python
 
 #依次输入以下命令
 <code>pkg update
-
 <code>pkg upgrade
-
 <code>pkg install git
 
 #下载库
@@ -20,8 +18,8 @@ python
 #安装python
 <code>pkg install python
 
-<code>cd Telegram-Name-Updating
 #安装依赖
+<code>cd Telegram-Name-Updating
 <code>pip install -r requirements.txt
 #启动
 <code>python tg_username_update.py
