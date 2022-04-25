@@ -1,13 +1,9 @@
-<img src = "https://github.com/3418359665/3418359665/raw/main/%E5%A4%87%E4%BB%BD/two_hearts_animated_sticker.gif" >
+<img src = "https://github.com/3418359665/3418359665/raw/main/%E5%A4%87%E4%BB%BD/two_hearts_animated_sticker%20(2).gif" >
 
 
 
 # 运行环境
 python
-# 食用方法
-[Android教程](#Android教程)
-
-[Linux教程](#Linux教程)
 
 # 申请Telegram API（重要）
 [点这里选择创建应用程序](https://core.telegram.org/api)
