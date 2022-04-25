@@ -5,8 +5,9 @@ python
 选择创建应用：<a href="https://my.telegram.org/">https://my.telegram.org/</a>。只要填App title和Short name即可，获得api_id和api_hash。
 
 #安卓使用termux运行
-下载Termux：<a href="https://wwu.lanzoul.com/iB8ZD03r51eb">https://wwu.lanzoul.com/iB8ZD03r51eb/</a>密码：dsfb
-依次输入以下命令
+下载Termux：<a href="https://wwu.lanzoul.com/iB8ZD03r51eb"a>密码：dsfb
+
+#依次输入以下命令
 <code>pkg update
 
 <code>pkg upgrade
