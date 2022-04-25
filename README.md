@@ -34,7 +34,7 @@ pkg install python
 
 # 安装依赖
 ```
-cd Telegram-Name-Updating
+cd TelegramName-of-time-announcement
 ```
 ```
 pip install -r requirements.txt
