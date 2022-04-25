@@ -33,9 +33,11 @@ pkg install python
 ```
 
 # 安装依赖
-```cd Telegram-Name-Updating
 ```
-```pip install -r requirements.txt
+cd Telegram-Name-Updating
+```
+```
+pip install -r requirements.txt
 ```
 
 # 启动
