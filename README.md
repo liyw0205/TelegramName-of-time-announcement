@@ -2,7 +2,7 @@
 python
 # 食用方法
 [Android教程](#Android教程)
-[Linux教程]（#`Linux`教程）
+[Linux教程](#`Linux`教程)
 
 # 申请Telegram API（重要）
 [点这里选择创建应用程序](https://core.telegram.org/api)
