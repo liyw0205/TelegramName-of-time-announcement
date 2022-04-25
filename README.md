@@ -3,8 +3,8 @@ python
 
 
 # 申请Telegram API（重要）
-[点这里选择创建应用程序](https://core.telegram.org/api)
-只要填App title和Short name即可，获得api_id和api_hash。
+[点这里申请API](https://core.telegram.org/api)
+选择创建应用程序只要填App title和Short name即可，获得api_id和api_hash。
 
 
 # 教程
