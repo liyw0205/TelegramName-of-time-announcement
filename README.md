@@ -1,3 +1,7 @@
+<img src = "https://github.com/3418359665/3418359665/raw/main/%E5%A4%87%E4%BB%BD/two_hearts_animated_sticker.gif" >
+
+
+
 # 运行环境
 python
 # 食用方法
@@ -11,7 +15,9 @@ python
 
 
 # Android教程
- [点这下载Termux](https://wwu.lanzoul.com/iB8ZD03r51eb)
+<details>
+<summary>(点击查看)</summary>
+[点这下载Termux](https://wwu.lanzoul.com/iB8ZD03r51eb)
 密码：dsfb
 
 
@@ -49,10 +55,11 @@ python tg_username_update.py
 ```
 
 依次输入api_id，api_hash，手机号（国区要加+86如+86123********），验证码，如果账号开启了二次验证则根据提示再输入二次验证的密码后启动成功
-
+ </details>
 
 # Linux教程
-
+<details>
+<summary>(点击查看)</summary>
 ## 依次输入以下命令
 ```
 apt-get update
@@ -87,3 +94,4 @@ python tg_username_update.py
 ```
 
 依次输入api_id，api_hash，手机号（国区要加+86如+86123********），验证码，如果账号开启了二次验证则根据提示再输入二次验证的密码后启动成功
+ </details>
