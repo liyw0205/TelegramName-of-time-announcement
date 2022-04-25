@@ -13,6 +13,7 @@ python
 # Android教程
 <details>
 <summary>(点击查看)</summary>
+
 [点这下载Termux](https://wwu.lanzoul.com/iB8ZD03r51eb)
 密码：dsfb
 
