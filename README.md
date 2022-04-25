@@ -8,7 +8,8 @@ python
 
 
 # 教程
-</details>
+ 
+ </details>
 <summary>查看安卓教程</summary>
 
  - [点这下载Termux](https://wwu.lanzoul.com/iB8ZD03r51eb)
@@ -49,5 +50,4 @@ python tg_username_update.py
 ```
 
 依次输入api_id，api_hash，手机号（国区要加+86如+86123********），验证码，如果账号开启了二次验证则根据提示再输入二次验证的密码后启动成功
-
  </details>
