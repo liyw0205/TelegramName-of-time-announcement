@@ -17,7 +17,7 @@ lastname实时更新效果：<a href="https://t.me/JiuMeng">旧梦</a>
 <code>git clone https://github.com/8838/Telegram-Name-Updating.git</code>\
 <code>cd Telegram-Name-Updating</code>
 
-## 2. 安装telethon
+# 2. 安装telethon
 
 <code>pip3 install -r requirements.txt</code>
 
