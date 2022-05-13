@@ -30,7 +30,7 @@ pkg install git
 ```
 ## 下载库
 ```
-git clone https://github.com/3418359665/TelegramName-of-time-announcement.git
+git clone https://github.com/liyw0205/TelegramName-of-time-announcement.git
 ```
 
 ## 安装python
@@ -71,7 +71,7 @@ apt-get install git
 
 ## 下载库
 ```
-git clone https://github.com/3418359665/TelegramName-of-time-announcement.git
+git clone https://github.com/liyw0205/TelegramName-of-time-announcement.git
 ```
 
 ## 安装python
