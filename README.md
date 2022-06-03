@@ -83,12 +83,12 @@ apt-get install python3-pip
 cd TelegramName-of-time-announcement
 ```
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## 启动
 ```
-python tg_username_update.py
+python3 tg_username_update.py
 ```
 
 依次输入api_id，api_hash，手机号（国区要加+86如+86123********），验证码，如果账号开启了二次验证则根据提示再输入二次验证的密码后启动成功
